@@ -11,3 +11,13 @@ Prerak Chaudhari
 **Activity 3**
 
 ![](images/Activity3.png)
+
+**Activity 4**
+
+Teammate's repo: https://github.com/esmatsahak/ECE444-F2022-Lab1
+
+My commit:
+![](images/Activity4Prerak.png)
+
+Teammate's commit:
+![](images/Activity4Esmat.png)
