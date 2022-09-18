@@ -45,3 +45,10 @@ https://github.com/prerakc/ECE444-F2022-EP
 
 Rebase Command:
 ![](images/Activity7Rebase.png)
+
+**Activity 8**
+
+![](images/Activity8Page.png)
+
+Rebase Command:
+![](images/Activity8Rebase.png)
