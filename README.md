@@ -21,3 +21,16 @@ My commit:
 
 Teammate's commit:
 ![](images/Activity4Esmat.png)
+
+**Activity 5**
+
+Commands run: 
+1) git checkout rebase 
+2) git rebase develop
+3) git checkout develop
+4) git rebase rebase
+
+![](images/Activity5RebaseCommands.png)
+
+Commit history of develop branch:
+![](images/Activity5Log.png)
