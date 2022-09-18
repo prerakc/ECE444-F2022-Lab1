@@ -34,3 +34,7 @@ Commands run:
 
 Commit history of develop branch:
 ![](images/Activity5Log.png)
+
+**Activity 6**
+
+https://github.com/prerakc/ECE444-F2022-EP
