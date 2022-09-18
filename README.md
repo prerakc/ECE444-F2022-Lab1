@@ -38,3 +38,10 @@ Commit history of develop branch:
 **Activity 6**
 
 https://github.com/prerakc/ECE444-F2022-EP
+
+**Activity 7**
+
+![](images/Activity7Page.png)
+
+Rebase Command:
+![](images/Activity7Rebase.png)
